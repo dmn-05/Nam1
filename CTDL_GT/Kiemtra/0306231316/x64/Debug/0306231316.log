@@ -1,0 +1,3 @@
+﻿  0306231316.cpp
+D:\Kiemtra\0306231316\0306231316.cpp(59,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  0306231316.vcxproj -> D:\Kiemtra\x64\Debug\0306231316.exe

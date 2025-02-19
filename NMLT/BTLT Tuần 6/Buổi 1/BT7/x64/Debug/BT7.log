@@ -1,0 +1,4 @@
+﻿  bt7.cpp
+C:\Users\Hiiiiiiiiii\OneDrive\Máy tính\0306231316\Buổi 1\BT7\bt7.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Hiiiiiiiiii\OneDrive\Máy tính\0306231316\Buổi 1\BT7\bt7.cpp(18,17): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  BT7.vcxproj -> C:\Users\Hiiiiiiiiii\OneDrive\Máy tính\0306231316\Buổi 1\x64\Debug\BT7.exe

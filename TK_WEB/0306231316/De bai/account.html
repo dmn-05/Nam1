@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/index.css">
+    <script src="js/script.js"></script>
+    <title>Trang chủ</title>
+</head>
+
+<body>
+    <header>
+        <a href="index.html"><img id="imgLogo" src="img/logo.png" alt=""></a>
+    </header>
+
+    <nav>
+        <ul id="mainMenu">
+            <li id="li1"><a href="index.html">Trang chủ</a></li>
+            <li id="li2"><a href="about.html">Giới thiệu</a></li>
+            <li id="li3"><a href="news.html">Tin tức</a></li>
+            <li id="li4"><a href="sale.html">Khuyến mãi</a></li>
+            <li id="li5"><a href="account.html">Đăng kí</a></li>
+        </ul>
+    </nav>
+
+    <section>
+        <h3><b>Đăng kí tài khoản</b></h3>
+    </section>
+    <form action="">
+        <fieldset>
+            <legend>Thông tin tài khoản</legend>
+            <table>
+                <tr>
+                    <td>Tên tài khoản</td>
+                    <td><input type="text"></td>
+                </tr>
+                <tr>
+                    <td>Mật khẩu</td>
+                    <td><input type="password"></td>
+                    <td><button id="pass" onmouseover="mouseover()" onmouseout="mouseout()">Hiện Mật Khẩu</button></td>
+                </tr>
+                <tr>
+                    <td>Xác nhận mật khẩu</td>
+                    <td><input type="password"></td>
+                    <td><button id="pass" onmouseover="mouseover()" onmouseout="mouseout()">Hiện Mật Khẩu</button></td>
+                </tr>
+            </table>
+        </fieldset>
+        <fieldset>
+            <legend>Thông tin cá nhân</legend>
+            <table>
+                <tr>
+                    <td>Họ Tên</td>
+                    <td><input type="text"></td>
+                </tr>
+                <tr>
+                    <td>Email</td>
+                    <td><input type="text"></td>
+                    <td><select name="" id="">
+                        <option value="">@gmail.com</option>
+                        <option value="">@caothang.edu.vn</option>
+                        <option value="">@icloud.com</option>
+                    </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Giới tính</td>
+                    <td><input type="radio" name="Gioitinh" checked>Nam</td>
+                    <td><input type="radio"name="Gioitinh">Nữ</td>
+                </tr>
+                <tr>
+                    <td>SDT</td>
+                    <td><input type="text"></td>
+                </tr>
+                <tr>
+                    <td>CCCD</td>
+                    <td><input type="text"></td>
+                </tr>
+                <tr>
+                    <td>Địa chỉ</td>
+                    <td><textarea name="" id="" cols="30" rows="10"></textarea></td>
+                </tr>
+                <tr>
+                    <td>Ảnh đại diện</td>
+                    <td><input type="file"></td>
+                </tr>
+            </table>
+        </fieldset>
+        <fieldset>
+            <table>
+                <tr>
+                    <button type="submit">Đăng kí</button>
+                    <button type="reset">Hủy Bỏ</button>
+                </tr>
+            </table>
+        </fieldset>
+    </form>
+</body>
+
+</html>

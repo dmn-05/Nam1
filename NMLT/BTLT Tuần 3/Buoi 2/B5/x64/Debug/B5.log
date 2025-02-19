@@ -1,0 +1,5 @@
+﻿  b5.cpp
+E:\0306231316\NMLT\BTLT Tuần 3\Buoi 2\B5\b5.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\0306231316\NMLT\BTLT Tuần 3\Buoi 2\B5\b5.cpp(11,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\0306231316\NMLT\BTLT Tuần 3\Buoi 2\B5\b5.cpp(15,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  B5.vcxproj -> E:\0306231316\NMLT\BTLT Tuần 3\Buoi 2\x64\Debug\B5.exe

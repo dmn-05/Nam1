@@ -1,0 +1,3 @@
+﻿  max.cpp
+C:\Users\SV\Desktop\0306231316\max\max.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  max.vcxproj -> C:\Users\SV\Desktop\0306231316\x64\Debug\max.exe

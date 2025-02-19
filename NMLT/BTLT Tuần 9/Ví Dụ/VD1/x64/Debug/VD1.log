@@ -1,0 +1,3 @@
+﻿  vd1.cpp
+E:\0306231316\NMLT\BTLT Tuần 9\Ví Dụ\VD1\vd1.cpp(14,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  VD1.vcxproj -> E:\0306231316\NMLT\BTLT Tuần 9\Ví Dụ\x64\Debug\VD1.exe

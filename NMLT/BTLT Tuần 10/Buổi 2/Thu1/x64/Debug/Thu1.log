@@ -1,0 +1,4 @@
+﻿  thu1.cpp
+E:\0306231316\NMLT\BTLT Tuần 10\Buổi 2\Thu1\thu1.cpp(24,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\0306231316\NMLT\BTLT Tuần 10\Buổi 2\Thu1\thu1.cpp(25,9): warning C4101: 'b': unreferenced local variable
+  Thu1.vcxproj -> E:\0306231316\NMLT\BTLT Tuần 10\Buổi 2\x64\Debug\Thu1.exe

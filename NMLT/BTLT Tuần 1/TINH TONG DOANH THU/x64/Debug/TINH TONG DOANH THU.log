@@ -1,0 +1,6 @@
+﻿  tinh doanh thu.cpp
+E:\0306231316\TINH TONG DOANH THU\tinh doanh thu.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\0306231316\TINH TONG DOANH THU\tinh doanh thu.cpp(16,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\0306231316\TINH TONG DOANH THU\tinh doanh thu.cpp(17,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\0306231316\TINH TONG DOANH THU\tinh doanh thu.cpp(18,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  TINH TONG DOANH THU.vcxproj -> E:\0306231316\x64\Debug\TINH TONG DOANH THU.exe

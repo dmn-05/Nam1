@@ -1,0 +1,4 @@
+﻿  bt1.cpp
+E:\0306231316\NMLT\BTLT Tuần 11\Buổi 1\BT1\bt1.cpp(74,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\0306231316\NMLT\BTLT Tuần 11\Buổi 1\BT1\bt1.cpp(380,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  BT1.vcxproj -> E:\0306231316\NMLT\BTLT Tuần 11\Buổi 1\x64\Debug\BT1.exe

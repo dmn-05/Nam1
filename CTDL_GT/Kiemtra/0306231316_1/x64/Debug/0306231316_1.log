@@ -1,0 +1,4 @@
+﻿  0306231316.cpp
+E:\0306231316\CTDL_GT\Kiemtra\0306231316_1\0306231316.cpp(35,6): warning C4101: 'kq': unreferenced local variable
+E:\0306231316\CTDL_GT\Kiemtra\0306231316_1\0306231316.cpp(69,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  0306231316_1.vcxproj -> E:\0306231316\CTDL_GT\Kiemtra\x64\Debug\0306231316_1.exe

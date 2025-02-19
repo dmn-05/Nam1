@@ -1,0 +1,14 @@
+﻿'BT10.exe' (Win32): Loaded 'C:\Users\Hiiiiiiiiii\OneDrive\Máy tính\0306231316\Buổi 1\x64\Debug\BT10.exe'. Symbols loaded.
+'BT10.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'BT10.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'BT10.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'BT10.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'BT10.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'BT10.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'BT10.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 0x5aa0 has exited with code 0 (0x0).
+'BT10.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'BT10.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+The thread 0x2620 has exited with code 0 (0x0).
+The thread 0x4990 has exited with code 0 (0x0).
+The program '[21412] BT10.exe' has exited with code 0 (0x0).

@@ -1,0 +1,4 @@
+﻿  bt5.cpp
+E:\0306231316\NMLT\BTLT Tuần 5\Buổi 2\BT5\bt5.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\0306231316\NMLT\BTLT Tuần 5\Buổi 2\BT5\bt5.cpp(5,22): warning C4101: 'cn': unreferenced local variable
+  BT5.vcxproj -> E:\0306231316\NMLT\BTLT Tuần 5\Buổi 2\x64\Debug\BT5.exe

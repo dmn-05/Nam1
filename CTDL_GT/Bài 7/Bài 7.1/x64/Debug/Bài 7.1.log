@@ -1,0 +1,4 @@
+﻿  0306231316_Bai7_1.cpp
+E:\0306231316\CTDL_GT\Bài 7\Bài 7.1\0306231316_Bai7_1.cpp(247,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\0306231316\CTDL_GT\Bài 7\Bài 7.1\0306231316_Bai7_1.cpp(249,8): warning C4101: 'k': unreferenced local variable
+  Bài 7.1.vcxproj -> E:\0306231316\CTDL_GT\Bài 7\x64\Debug\Bài 7.1.exe

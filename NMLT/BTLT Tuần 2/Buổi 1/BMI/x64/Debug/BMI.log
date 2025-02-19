@@ -1,0 +1,4 @@
+﻿  bmi.cpp
+C:\Users\Hiiiiiiiiii\OneDrive\Máy tính\0306231316\BTLT Buổi 2\BMI\bmi.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Hiiiiiiiiii\OneDrive\Máy tính\0306231316\BTLT Buổi 2\BMI\bmi.cpp(8,11): warning C4552: '!=': result of expression not used
+  BMI.vcxproj -> C:\Users\Hiiiiiiiiii\OneDrive\Máy tính\0306231316\BTLT Buổi 2\x64\Debug\BMI.exe

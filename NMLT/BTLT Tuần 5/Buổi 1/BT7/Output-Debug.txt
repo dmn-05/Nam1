@@ -1,0 +1,24 @@
+﻿'BT7.exe' (Win32): Loaded 'E:\0306231316\NMLT\BTLT Tuần 5\Buổi 1\x64\Debug\BT7.exe'. Symbols loaded.
+'BT7.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'BT7.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'BT7.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'BT7.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'BT7.exe' (Win32): Loaded 'C:\Windows\System32\ole32.dll'. 
+'BT7.exe' (Win32): Loaded 'C:\Windows\System32\msvcp_win.dll'. 
+'BT7.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbase.dll'. 
+'BT7.exe' (Win32): Loaded 'C:\Windows\System32\gdi32.dll'. 
+'BT7.exe' (Win32): Loaded 'C:\Windows\System32\win32u.dll'. 
+'BT7.exe' (Win32): Loaded 'C:\Windows\System32\gdi32full.dll'. 
+'BT7.exe' (Win32): Loaded 'C:\Windows\System32\user32.dll'. 
+'BT7.exe' (Win32): Loaded 'C:\Windows\System32\combase.dll'. 
+'BT7.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+'BT7.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'BT7.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'BT7.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+'BT7.exe' (Win32): Loaded 'C:\Windows\System32\imm32.dll'. 
+The thread 0x2490 has exited with code 0 (0x0).
+'BT7.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'BT7.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+The thread 0x5394 has exited with code 0 (0x0).
+The thread 0x3ee4 has exited with code 0 (0x0).
+The program '[26788] BT7.exe' has exited with code 0 (0x0).

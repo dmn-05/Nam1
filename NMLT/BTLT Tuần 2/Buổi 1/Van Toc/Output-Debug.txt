@@ -1,0 +1,25 @@
+﻿'Van Toc.exe' (Win32): Loaded 'C:\Users\Hiiiiiiiiii\OneDrive\Máy tính\0306231316\BTLT Buổi 2\x64\Debug\Van Toc.exe'. Symbols loaded.
+'Van Toc.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'Van Toc.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'Van Toc.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'Van Toc.exe' (Win32): Loaded 'C:\Windows\System32\apphelp.dll'. 
+'Van Toc.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'Van Toc.exe' (Win32): Loaded 'C:\Windows\System32\ole32.dll'. 
+'Van Toc.exe' (Win32): Loaded 'C:\Windows\System32\msvcp_win.dll'. 
+'Van Toc.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbase.dll'. 
+'Van Toc.exe' (Win32): Loaded 'C:\Windows\System32\gdi32.dll'. 
+'Van Toc.exe' (Win32): Loaded 'C:\Windows\System32\win32u.dll'. 
+'Van Toc.exe' (Win32): Loaded 'C:\Windows\System32\gdi32full.dll'. 
+'Van Toc.exe' (Win32): Loaded 'C:\Windows\System32\user32.dll'. 
+'Van Toc.exe' (Win32): Loaded 'C:\Windows\System32\combase.dll'. 
+'Van Toc.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+'Van Toc.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'Van Toc.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'Van Toc.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+'Van Toc.exe' (Win32): Loaded 'C:\Windows\System32\imm32.dll'. 
+The thread 0x362c has exited with code 0 (0x0).
+'Van Toc.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'Van Toc.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+The thread 0xbc8 has exited with code 0 (0x0).
+The thread 0x4538 has exited with code 0 (0x0).
+The program '[12616] Van Toc.exe' has exited with code 0 (0x0).

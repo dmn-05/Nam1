@@ -1,0 +1,10 @@
+﻿  bt4.cpp
+E:\0306231316\NMLT\BTLT Tuần 14\Buổi 2\BT4\bt4.cpp(52,12): error C2228: left of '.tong' must have class/struct/union
+E:\0306231316\NMLT\BTLT Tuần 14\Buổi 2\BT4\bt4.cpp(52,12): message : type is 'DIEM []'
+E:\0306231316\NMLT\BTLT Tuần 14\Buổi 2\BT4\bt4.cpp(52,12): message : did you intend to use '->' instead?
+E:\0306231316\NMLT\BTLT Tuần 14\Buổi 2\BT4\bt4.cpp(52,17): error C2065: 'i': undeclared identifier
+E:\0306231316\NMLT\BTLT Tuần 14\Buổi 2\BT4\bt4.cpp(60,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\0306231316\NMLT\BTLT Tuần 14\Buổi 2\BT4\bt4.cpp(85,3): error C2664: 'void sapxep(THISINH,DIEM [],int)': cannot convert argument 2 from 'DIEM' to 'DIEM []'
+E:\0306231316\NMLT\BTLT Tuần 14\Buổi 2\BT4\bt4.cpp(85,28): message : No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+E:\0306231316\NMLT\BTLT Tuần 14\Buổi 2\BT4\bt4.cpp(47,6): message : see declaration of 'sapxep'
+E:\0306231316\NMLT\BTLT Tuần 14\Buổi 2\BT4\bt4.cpp(85,3): message : while trying to match the argument list '(THISINH, DIEM, int)'

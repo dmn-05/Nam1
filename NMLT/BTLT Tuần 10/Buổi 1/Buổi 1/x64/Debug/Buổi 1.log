@@ -1,0 +1,5 @@
+﻿  buổi 1.cpp
+E:\0306231316\NMLT\BTLT Tuần 10\Buổi 1\Buổi 1\buổi 1.cpp(285,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\0306231316\NMLT\BTLT Tuần 10\Buổi 1\Buổi 1\buổi 1.cpp(287,21): warning C4101: 'g': unreferenced local variable
+E:\0306231316\NMLT\BTLT Tuần 10\Buổi 1\Buổi 1\buổi 1.cpp(45): warning C4715: 'songuyento': not all control paths return a value
+  Buổi 1.vcxproj -> E:\0306231316\NMLT\BTLT Tuần 10\Buổi 1\x64\Debug\Buổi 1.exe

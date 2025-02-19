@@ -1,0 +1,3 @@
+﻿  test.cpp
+E:\0306231316\CTDL_GT\Bài 6\Bài Test\test.cpp(42,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Bài Test.vcxproj -> E:\0306231316\CTDL_GT\Bài 6\x64\Debug\Bài Test.exe

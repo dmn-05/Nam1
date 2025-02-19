@@ -1,0 +1,3 @@
+﻿  toan tu tang.cpp
+C:\Users\SV\Desktop\Cau Truc Lap\Toan tu tang\toan tu tang.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Toan tu tang.vcxproj -> C:\Users\SV\Desktop\Cau Truc Lap\x64\Debug\Toan tu tang.exe

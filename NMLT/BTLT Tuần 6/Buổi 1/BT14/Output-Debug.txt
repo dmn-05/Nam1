@@ -1,0 +1,14 @@
+﻿'BT14.exe' (Win32): Loaded 'E:\0306231316\NMLT\BTLT Tuần 6\Buổi 1\x64\Debug\BT14.exe'. Symbols loaded.
+'BT14.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'BT14.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'BT14.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'BT14.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'BT14.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'BT14.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'BT14.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 0x3808 has exited with code 0 (0x0).
+'BT14.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'BT14.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+The thread 0x4e1c has exited with code 0 (0x0).
+The thread 0xebc has exited with code 0 (0x0).
+The program '[8372] BT14.exe' has exited with code 0 (0x0).

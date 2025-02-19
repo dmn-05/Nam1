@@ -1,0 +1,4 @@
+﻿  sua loi 2.cpp
+C:\Users\SV\source\repos\Sua loi chuong trinh 1\sua loi chuong trinh 2\sua loi 2.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\SV\source\repos\Sua loi chuong trinh 1\sua loi chuong trinh 2\sua loi 2.cpp(5,7): warning C4101: 'hoten': unreferenced local variable
+  sua loi chuong trinh 2.vcxproj -> C:\Users\SV\source\repos\Sua loi chuong trinh 1\x64\Debug\sua loi chuong trinh 2.exe

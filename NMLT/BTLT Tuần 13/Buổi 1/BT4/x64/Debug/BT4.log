@@ -1,0 +1,4 @@
+﻿  bt4.cpp
+E:\0306231316\NMLT\Buổi 1\BT4\bt4.cpp(42,10): warning C4566: character represented by universal-character-name '\u1EE5' cannot be represented in the current code page (1252)
+E:\0306231316\NMLT\Buổi 1\BT4\bt4.cpp(55,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  BT4.vcxproj -> E:\0306231316\NMLT\Buổi 1\x64\Debug\BT4.exe

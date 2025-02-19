@@ -1,0 +1,4 @@
+﻿  b7.cpp
+E:\0306231316\NMLT\BTLT Tuần 3\Buoi 1\B7\b7.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\0306231316\NMLT\BTLT Tuần 3\Buoi 1\B7\b7.cpp(12,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  B7.vcxproj -> E:\0306231316\NMLT\BTLT Tuần 3\Buoi 1\x64\Debug\B7.exe

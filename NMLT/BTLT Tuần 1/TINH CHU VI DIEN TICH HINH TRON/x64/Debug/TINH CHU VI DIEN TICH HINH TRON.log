@@ -1,0 +1,5 @@
+﻿  chu vi dien tich.cpp
+E:\0306231316\TINH DOANH THU VA THUE\chu vi dien tich.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\0306231316\TINH DOANH THU VA THUE\chu vi dien tich.cpp(8,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+E:\0306231316\TINH DOANH THU VA THUE\chu vi dien tich.cpp(9,33): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  TINH CHU VI DIEN TICH HINH TRON.vcxproj -> E:\0306231316\x64\Debug\TINH CHU VI DIEN TICH HINH TRON.exe

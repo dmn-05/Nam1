@@ -1,0 +1,24 @@
+﻿'BT2.exe' (Win32): Loaded 'C:\Users\Hiiiiiiiiii\OneDrive\Máy tính\0306231316\Buổi 2\x64\Debug\BT2.exe'. Symbols loaded.
+'BT2.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'BT2.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'BT2.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'BT2.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'BT2.exe' (Win32): Loaded 'C:\Windows\System32\ole32.dll'. 
+'BT2.exe' (Win32): Loaded 'C:\Windows\System32\msvcp_win.dll'. 
+'BT2.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbase.dll'. 
+'BT2.exe' (Win32): Loaded 'C:\Windows\System32\gdi32.dll'. 
+'BT2.exe' (Win32): Loaded 'C:\Windows\System32\win32u.dll'. 
+'BT2.exe' (Win32): Loaded 'C:\Windows\System32\gdi32full.dll'. 
+'BT2.exe' (Win32): Loaded 'C:\Windows\System32\user32.dll'. 
+'BT2.exe' (Win32): Loaded 'C:\Windows\System32\combase.dll'. 
+'BT2.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+'BT2.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'BT2.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+'BT2.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'BT2.exe' (Win32): Loaded 'C:\Windows\System32\imm32.dll'. 
+The thread 0x89c has exited with code 0 (0x0).
+'BT2.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'BT2.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+The thread 0x26bc has exited with code 0 (0x0).
+The thread 0x4320 has exited with code 0 (0x0).
+The program '[5060] BT2.exe' has exited with code 0 (0x0).

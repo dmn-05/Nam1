@@ -1,0 +1,5 @@
+﻿  0306231316_Bai12_1.cpp
+F:\0306231316\CTDL_GT\Bài 12\Bài 12.1\0306231316_Bai12_1.cpp(133,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+F:\0306231316\CTDL_GT\Bài 12\Bài 12.1\0306231316_Bai12_1.cpp(86): warning C4715: 'TimK': not all control paths return a value
+F:\0306231316\CTDL_GT\Bài 12\Bài 12.1\0306231316_Bai12_1.cpp(131): warning C4715: 'deleteNode': not all control paths return a value
+  Bài 12.1.vcxproj -> F:\0306231316\CTDL_GT\Bài 12\Bài 12.1\x64\Debug\Bài 12.1.exe

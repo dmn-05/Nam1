@@ -1,0 +1,24 @@
+﻿'Thap Ha Noi.exe' (Win32): Loaded 'C:\Users\Hiiiiiiiiii\OneDrive\Máy tính\0306231316\Thap Ha Noi\x64\Debug\Thap Ha Noi.exe'. Symbols loaded.
+'Thap Ha Noi.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'Thap Ha Noi.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'Thap Ha Noi.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'Thap Ha Noi.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'Thap Ha Noi.exe' (Win32): Loaded 'C:\Windows\System32\ole32.dll'. 
+'Thap Ha Noi.exe' (Win32): Loaded 'C:\Windows\System32\msvcp_win.dll'. 
+'Thap Ha Noi.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbase.dll'. 
+'Thap Ha Noi.exe' (Win32): Loaded 'C:\Windows\System32\gdi32.dll'. 
+'Thap Ha Noi.exe' (Win32): Loaded 'C:\Windows\System32\win32u.dll'. 
+'Thap Ha Noi.exe' (Win32): Loaded 'C:\Windows\System32\gdi32full.dll'. 
+'Thap Ha Noi.exe' (Win32): Loaded 'C:\Windows\System32\user32.dll'. 
+'Thap Ha Noi.exe' (Win32): Loaded 'C:\Windows\System32\combase.dll'. 
+'Thap Ha Noi.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+'Thap Ha Noi.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'Thap Ha Noi.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'Thap Ha Noi.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+'Thap Ha Noi.exe' (Win32): Loaded 'C:\Windows\System32\imm32.dll'. 
+The thread 0xb5c has exited with code 0 (0x0).
+'Thap Ha Noi.exe' (Win32): Loaded 'C:\Windows\System32\sechost.dll'. 
+The thread 0x1668 has exited with code 3221225786 (0xc000013a).
+The thread 0x3d90 has exited with code 3221225786 (0xc000013a).
+The thread 0x1c04 has exited with code 3221225786 (0xc000013a).
+The program '[7216] Thap Ha Noi.exe' has exited with code 3221225786 (0xc000013a).

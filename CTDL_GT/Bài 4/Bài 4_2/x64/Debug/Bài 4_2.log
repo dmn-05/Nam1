@@ -1,0 +1,4 @@
+﻿  4_2.cpp
+E:\0306231316\CTDL_GT\Bài 4\Bài 4_2\4_2.cpp(7,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\0306231316\CTDL_GT\Bài 4\Bài 4_2\4_2.cpp(82,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Bài 4_2.vcxproj -> E:\0306231316\CTDL_GT\Bài 4\x64\Debug\Bài 4_2.exe

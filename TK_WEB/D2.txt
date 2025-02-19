@@ -1,0 +1,121 @@
+body {
+    font-family Calibri, Arial, sans-serif;
+}
+
+header {
+    background-image url(..imgheader_bg.jpg);
+    background-size cover;
+    height 489px;
+    max-width 100%;
+    text-align center;
+    position relative;
+    margin-bottom 0;
+    display block;
+}
+
+
+#imgLogo {
+    position absolute;
+    top 5px;
+    left 5px;
+}
+
+#mainMenu li {
+    display inline-block;
+    width 19%;
+    text-align center;
+    border 2px solid black;
+    font-size 16pt;
+    font-weight bold;
+}
+
+#mainMenu lihover {
+    color white;
+}
+
+#li1hover {
+    background-color green;
+}
+
+#li2hover {
+    background-color blue;
+}
+
+#li3hover {
+    background-color pink;
+}
+
+#li4hover {
+    background-color orange;
+}
+
+#li5hover {
+    background-color purple;
+}
+
+a {
+    text-decoration none;
+    color inherit;
+}
+
+section {
+    padding 0 40px;
+}
+
+sectionh3 {
+    text-align center;
+}
+
+#tblIcon {
+    width 100%;
+}
+
+#tblIcon td {
+    padding 20px;
+}
+
+.icon {
+    width 100%;
+    max-width fit-content;
+}
+
+legend {
+    font-weight bold;
+}
+table#tblIcon td{
+    text-align center;
+}
+
+footer {
+    text-align center;
+    color white;
+    background-color black;
+    line-height 30px;
+}
+
+footer h3{
+    margin 10px 0px;
+    padding 20px 0px;
+}
+
+
+
+
+footer nav a {
+    margin 0 10px;
+    display inline;
+    width 19%;
+    text-align center;
+    border 2px solid white;
+    font-size 16pt;
+    font-weight bold;
+    padding 10px 60px;
+}
+
+footer img{
+    display block;
+    margin 0 auto 20px;
+    width 250px;
+    align-self center;
+    
+}

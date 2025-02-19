@@ -1,0 +1,15 @@
+
+main .gallery{
+    display: flex;
+}
+main .lst-port{
+    display: flex;
+    flex-wrap: wrap;    
+}
+main .lst-port article{
+    width: calc(100%/3);
+    padding: 1rem 2rem;
+    box-sizing: border-box;
+    border:dashed 1px gray;
+    box-shadow: gray 2px 2px 2px;
+}

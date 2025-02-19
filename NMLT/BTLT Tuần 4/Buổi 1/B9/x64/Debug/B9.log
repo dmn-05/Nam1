@@ -1,0 +1,4 @@
+﻿  b9.cpp
+E:\0306231316\NMLT\BTLT Tuần 4\Buổi 1\B9\b9.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\0306231316\NMLT\BTLT Tuần 4\Buổi 1\B9\b9.cpp(9,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  B9.vcxproj -> E:\0306231316\NMLT\BTLT Tuần 4\Buổi 1\x64\Debug\B9.exe

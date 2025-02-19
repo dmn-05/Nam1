@@ -1,0 +1,7 @@
+﻿  thu1.cpp
+E:\0306231316\NMLT\BTLT Tuần 10\Buổi 1\Thu1\thu1.cpp(73,9): warning C4101: 'ha': unreferenced local variable
+E:\0306231316\NMLT\BTLT Tuần 10\Buổi 1\Thu1\thu1.cpp(73,17): warning C4101: 'hc': unreferenced local variable
+E:\0306231316\NMLT\BTLT Tuần 10\Buổi 1\Thu1\thu1.cpp(79,13): warning C4101: 'hb': unreferenced local variable
+E:\0306231316\NMLT\BTLT Tuần 10\Buổi 1\Thu1\thu1.cpp(79,9): warning C4101: 'ha': unreferenced local variable
+E:\0306231316\NMLT\BTLT Tuần 10\Buổi 1\Thu1\thu1.cpp(84,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Thu1.vcxproj -> E:\0306231316\NMLT\BTLT Tuần 10\Buổi 1\x64\Debug\Thu1.exe

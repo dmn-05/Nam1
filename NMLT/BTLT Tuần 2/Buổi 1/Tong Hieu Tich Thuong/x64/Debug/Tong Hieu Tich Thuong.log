@@ -1,0 +1,8 @@
+﻿  tong hieu tich thuong.cpp
+C:\Users\Hiiiiiiiiii\OneDrive\Máy tính\0306231316\BTLT Buổi 2\Tong Hieu Tich Thuong\tong hieu tich thuong.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Hiiiiiiiiii\OneDrive\Máy tính\0306231316\BTLT Buổi 2\Tong Hieu Tich Thuong\tong hieu tich thuong.cpp(7,4): warning C4552: '!=': result of expression not used
+C:\Users\Hiiiiiiiiii\OneDrive\Máy tính\0306231316\BTLT Buổi 2\Tong Hieu Tich Thuong\tong hieu tich thuong.cpp(12,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Hiiiiiiiiii\OneDrive\Máy tính\0306231316\BTLT Buổi 2\Tong Hieu Tich Thuong\tong hieu tich thuong.cpp(13,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Hiiiiiiiiii\OneDrive\Máy tính\0306231316\BTLT Buổi 2\Tong Hieu Tich Thuong\tong hieu tich thuong.cpp(14,11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Hiiiiiiiiii\OneDrive\Máy tính\0306231316\BTLT Buổi 2\Tong Hieu Tich Thuong\tong hieu tich thuong.cpp(15,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Tong Hieu Tich Thuong.vcxproj -> C:\Users\Hiiiiiiiiii\OneDrive\Máy tính\0306231316\BTLT Buổi 2\x64\Debug\Tong Hieu Tich Thuong.exe

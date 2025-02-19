@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/script.js"> </script>
+    <title>Trang chủ</title>
+    <style>
+        p{
+            text-align: center;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <a href="index.html"><img id="imgLogo" src="img/logo.png" alt=""></a> 
+            
+    </header>
+    <nav>
+        <ul id="mainMenu">
+            <li ><a href="index.html">Trang chủ</a></li>
+            <li><a href="about.html">Giới thiệu</a></li>
+            <li ><a href="news.html" >Tin tức</a></li>
+            <li> <a href="sale.html" ">Khuyến mãi</a></li>
+            <li><a href="account.html">Đăng kí</a></li>
+        </ul>
+    </nav>
+    <form action="" >
+        <p ><b>Dang KY TAI KHOAN</b></p>
+        <fieldset>
+            <legend>THONG TIN TAI KHOAN</legend>
+            <table>
+                <tr> 
+                    <td>Ten Tai KHOAN</td>
+                    <td><input type="text"></td>
+                </tr>
+                <tr>
+                    <td>Mat Khau</td>
+                    <td><input type="password"></td>
+                    <td><button id="pass" onmouseover="mouseover()" onmouseout="mouseout()">Hien MK</button></td>
+                </tr>
+                <tr>
+                    <td>Xac Nhan MK</td>
+                    <td><input type="password"></td>
+                    <td><button>Hien MK</button></td>
+                </tr>
+            </table>
+        </fieldset>
+        <fieldset>
+            <legend>THONG TIN CA NHAN</legend>
+            <table>
+                <tr>
+                    <td>Ho Ten</td>
+                    <td><input type="text"></td>
+                </tr>
+                <tr>
+                    <td>Email</td>
+                    <td><input type="text"></td>
+                    <td> <select name="" id="">
+                        <option value="">@gmail.com</option>
+                        <option value="">@caothang.edu.vn</option>
+                        <option value="">@icoud.com</option>
+                    </select></td>
+                </tr>
+                <tr><td>SDT</td>
+                <td><input type="text"></td></tr>
+                <tr>
+                    <td>CCCD</td>
+                    <td><input type="text"></td>
+                </tr>
+                <tr>
+                    <td>Gioi Tinh</td>
+                    <td>Nam<input type="radio" name="gioitinh"></td>
+                    <td>Nu<input type="radio" name="gioitinh"></td>
+                </tr>
+                <tr>
+                    <td>Dia Chi</td>
+                    <td><textarea name="" id="" cols="30" rows="10"></textarea></td>
+                </tr>
+                <tr>
+                    <td>Anh Dai Dien</td>
+                    <td><input type="file"></td>
+                </tr>
+            </table>
+        </fieldset>
+        <fieldset>
+            <button type="submit">DANG KY</button>
+            <button type="reset">HUY BO</button>
+        </fieldset>
+    </form>
+</body>
+</html>

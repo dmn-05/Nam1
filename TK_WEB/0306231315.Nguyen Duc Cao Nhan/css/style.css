@@ -1,0 +1,39 @@
+#mainMenu li{
+    border: 2px solid black;
+    display: inline-block;
+    text-align: center;
+    width: 19%;
+    font-size: 20px;
+}
+header {
+    background-image: url(../img/header_bg.jpg);   
+    background-repeat: no-repeat;
+    height: 300px;
+}
+li:hover{
+    background-color: rgb(250, 215, 215);
+}
+section h3 {
+    text-align: center;
+}
+
+header img{
+    height: 100px;
+}
+#tblIcon {
+    overflow: hidden;
+    max-width: 100%;
+    height: auto;
+
+}
+section table tr td img{
+    width: 100%;
+}
+a {
+    text-decoration: none;
+}
+form {
+    background-image: url(../img/logo_Acct.jpg);
+    background-repeat: no-repeat;
+    background-position: right ;
+}

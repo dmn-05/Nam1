@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/all.min.css">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/jquery.slim.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <title>Buổi 11 - Bài 2</title>
+</head>
+
+<body>
+    <div class="container">
+        <form>
+            <fieldset>
+                <legend>Thông tin tài khoản</legend>
+                <div class="form-group">
+                    <label for="txtTenTK">Tên tài khoản:</label>
+                    <input type="text" id="txtTenTK" class="form-control" autofocus>
+                </div>
+                <div class="form-group">
+                    <label for="txtMatKhau">Mật khẩu:</label>
+                    <input type="password" id="txtMatKhau" class="form-control">
+                </div>
+                <div class="form-group">
+                    <label for="txtEmail">Email:</label>
+                    <input type="text" id="txtEmail" class="form-control">
+                </div>
+                <div class="form-group">
+                    <label for="filAnhDaiDien">Ảnh đại diện:</label>
+                    <div class="custom-file">
+                        <input id="filAnhDaiDien" class="custom-file-input" type="file" name="">
+                        <label for="filAnhDaiDien" class="custom-file-label">Chọn file ảnh</label>
+                    </div>
+                </div>
+            </fieldset>
+            <fieldset>
+                <legend>Thông tin cá nhân</legend>
+                <div class="form-group">
+                    <label for="txtHoTen">Họ tên:</label>
+                    <input type="text" id="txtHoTen" class="form-control">
+                </div>
+                <div class="form-group">
+                    <label for="txtSDT">SĐT:</label>
+                    <input type="text" id="txtSDT" class="form-control">
+                </div>
+                <div class="form-group">
+                    <label for="txtDiaChi">Địa chỉ:</label>
+                    <textarea id="txtDiaChi" class="form-control"></textarea>
+                </div>
+                <div class="form-group">
+                    <label>Giới tính:</label>
+                    <div class="custom-control custom-radio custom-control-inline">
+                        <input type="radio" class="custom-control-input" id="radNam" name="GioiTinh" checked>
+                        <label class="custom-control-label" for="radNam">Nam</label>
+                    </div>
+                    <div class="custom-control custom-radio custom-control-inline">
+                        <input type="radio" class="custom-control-input" id="radNu" name="GioiTinh">
+                        <label class="custom-control-label" for="radNu">Nữ</label>
+                    </div>
+                </div>
+            </fieldset>
+            <p class="text-center">
+                <button id="btnDangKi" class="btn btn-success">Đăng ký</button>
+                <button id="btnHuyBo" class="btn btn-danger">Hủy bỏ</button>
+            </p>
+        </form>
+    </div>
+</body>
+
+</html>

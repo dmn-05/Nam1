@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Đăng kí</title>
+</head>
+<body>
+    <form  method="get" action="code.php">
+        <fieldset>
+            <legend>
+                <h3>Thông tin tài khoản</h3>
+            </legend>
+            <table>
+                <tr>
+                    <td>Tên tài khoản:</td>
+                    <td><input type="text" name="TenTK" required></td>
+                </tr>
+                <tr>
+                    <td>Mật khẩu:</td>
+                    <td><input type="password" name="Matkhau" required></td>
+                </tr>
+                <tr>
+                    <td>Xác nhận mật khẩu:</td>
+                    <td><input type="password" required></td>
+                </tr>
+            </table>
+        </fieldset>
+        <fieldset>
+            <legend>
+                <h3>Thông tin cá nhân</h3>
+            </legend>
+            <table>
+                <tr>
+                    <td>Họ tên:</td>
+                    <td><input type="text" name="Hoten"></td>
+                </tr>
+                <tr>
+                    <td>Email:</td>
+                    <td><input type="email" name="Email"></td>
+                </tr>
+                <tr>
+                    <td>SĐT:</td>
+                    <td><input type="text" name="sodt"></td>
+                </tr>
+                <tr>
+                    <td>Địa chỉ:</td>
+                    <td>
+                        <input type="text" name="DC_SoNha" placeholder="Số nhà">
+                        <input type="text" name="DC_PhuongXa" placeholder="Phường/Xã"><br>
+                        <input type="text" name="DC_QuanHuyen" placeholder="Quận/Huyện">
+                        <input type="text" name="DC_TinhThanh" placeholder="Tỉnh/Thành phố">
+                    </td>
+                </tr>
+                <tr>
+                    <td>Nghề nghiệp</td>
+                    <td>
+                        <select name="NgheNghiep" >
+                            <option value="HSSV">Học sinh-Sinh viên</option>
+                            <option value="NVVP">Nhân viên văn phòng</option>
+                            <option value="CN">Công nhân</option>
+                            <option value="khac">Khác</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Ngày sinh:</td>
+                    <td><input type="date" name="Ngaysinh"></td>
+                </tr>
+                <tr>
+                    <td>Giới tính:</td>
+                    <td>
+                        <input type="radio" name="Gioitinh" checked>Nam
+                        <input type="radio" name="Gioitinh">Nữ
+                    </td>
+                </tr>
+                <tr>
+                    <td>Avatar:</td>
+                    <td><input type="file" name="Avatar"></td>
+                </tr>
+                <tr>
+                    <td>Thông tin thêm:</td>
+                    <td><textarea name="Thongtinthem" cols="30" rows="10"></textarea></td>
+                </tr>
+            </table>
+        </fieldset>
+        <fieldset>
+            <button>Đăng kí</button>
+            <button type="reset">Hủy bỏ</button>
+        </fieldset>
+    </form>
+</body>
+</html>

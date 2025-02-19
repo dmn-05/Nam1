@@ -1,0 +1,5 @@
+﻿  bt4.cpp
+E:\0306231316\NMLT\BTLT Tuần 7\Buổi 1\BT4\bt4.cpp(5,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\0306231316\NMLT\BTLT Tuần 7\Buổi 1\BT4\bt4.cpp(12,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\0306231316\NMLT\BTLT Tuần 7\Buổi 1\BT4\bt4.cpp(7,9): warning C4101: 'x': unreferenced local variable
+  BT4.vcxproj -> E:\0306231316\NMLT\BTLT Tuần 7\Buổi 1\x64\Debug\BT4.exe

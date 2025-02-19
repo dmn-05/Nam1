@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'aero';
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: 400% 400%;
+    animation: gradient 15s ease infinite;
+    min-height: 100vh;
+    margin: 200px;
+    text-align: center;
+    text-shadow: 0 0 30px #e73c7e, 0 0 4px #00C4FF, 1px 1px 2px #fff;
+    background: linear-gradient(to right, #00223E, #00C4FF);
+    background: -webkit-linear-gradient(to right, #1AD8D5);
+    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+  }
+p 
+{
+    margin: 0; 
+    font-size: 35px;
+    color: #333;
+} 
+#lblTime {
+    text-align: center;
+    position: relative;
+    font-size: 36px; 
+    font-weight: bold; 
+    color: #fff; 
+    padding-right: 35px;
+}
+#lblDaysOfWeek { 
+    display: inline-block;
+    font-size: 40px; 
+    font-weight: bold; 
+    color: #fff; 
+} 
+#lblDate { 
+    font-size: 40px; 
+    color: #fff; 
+}

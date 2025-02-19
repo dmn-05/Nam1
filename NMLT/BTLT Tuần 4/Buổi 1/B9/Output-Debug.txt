@@ -1,0 +1,25 @@
+﻿'B9.exe' (Win32): Loaded 'E:\0306231316\NMLT\BTLT Tuần 4\Buổi 1\x64\Debug\B9.exe'. Symbols loaded.
+'B9.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'B9.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'B9.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'B9.exe' (Win32): Loaded 'C:\Windows\System32\apphelp.dll'. 
+'B9.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140d.dll'. 
+'B9.exe' (Win32): Loaded 'C:\Windows\System32\ole32.dll'. 
+'B9.exe' (Win32): Loaded 'C:\Windows\System32\msvcp_win.dll'. 
+'B9.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbase.dll'. 
+'B9.exe' (Win32): Loaded 'C:\Windows\System32\gdi32.dll'. 
+'B9.exe' (Win32): Loaded 'C:\Windows\System32\win32u.dll'. 
+'B9.exe' (Win32): Loaded 'C:\Windows\System32\gdi32full.dll'. 
+'B9.exe' (Win32): Loaded 'C:\Windows\System32\user32.dll'. 
+'B9.exe' (Win32): Loaded 'C:\Windows\System32\combase.dll'. 
+'B9.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+'B9.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1d.dll'. 
+'B9.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'B9.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+'B9.exe' (Win32): Loaded 'C:\Windows\System32\imm32.dll'. 
+The thread 0x5cb8 has exited with code 0 (0x0).
+'B9.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'B9.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+The thread 0x27b4 has exited with code 0 (0x0).
+The thread 0x3058 has exited with code 0 (0x0).
+The program '[23996] B9.exe' has exited with code 0 (0x0).

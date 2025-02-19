@@ -1,0 +1,3 @@
+﻿  bt10.cpp
+E:\0306231316\NMLT\BTLT Tuần 8\Buổi 1\BT10\bt10.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  BT10.vcxproj -> E:\0306231316\NMLT\BTLT Tuần 8\Buổi 1\x64\Debug\BT10.exe

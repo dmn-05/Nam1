@@ -1,0 +1,4 @@
+﻿  b7.cpp
+E:\0306231316\NMLT\BTLT Tuần 4\Buổi 1\B7\b7.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\0306231316\NMLT\BTLT Tuần 4\Buổi 1\B7\b7.cpp(5,17): warning C4101: 'max': unreferenced local variable
+  B7.vcxproj -> E:\0306231316\NMLT\BTLT Tuần 4\Buổi 1\x64\Debug\B7.exe

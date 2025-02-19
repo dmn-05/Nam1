@@ -1,0 +1,4 @@
+﻿  bt6.cpp
+E:\0306231316\NMLT\BTLT Tuần 7\Buổi 2\BT6\bt6.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\0306231316\NMLT\BTLT Tuần 7\Buổi 2\BT6\bt6.cpp(5,6): warning C4101: 'u': unreferenced local variable
+  BT6.vcxproj -> E:\0306231316\NMLT\BTLT Tuần 7\Buổi 2\x64\Debug\BT6.exe

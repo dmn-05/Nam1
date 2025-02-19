@@ -1,0 +1,7 @@
+﻿  van toc.cpp
+C:\Users\Hiiiiiiiiii\OneDrive\Máy tính\0306231316\BTLT Buổi 2\Van Toc\van toc.cpp(4,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Hiiiiiiiiii\OneDrive\Máy tính\0306231316\BTLT Buổi 2\Van Toc\van toc.cpp(10,5): warning C4804: '>=': unsafe use of type 'bool' in operation
+C:\Users\Hiiiiiiiiii\OneDrive\Máy tính\0306231316\BTLT Buổi 2\Van Toc\van toc.cpp(10,10): warning C4552: '>=': result of expression not used
+C:\Users\Hiiiiiiiiii\OneDrive\Máy tính\0306231316\BTLT Buổi 2\Van Toc\van toc.cpp(15,5): warning C4804: '>=': unsafe use of type 'bool' in operation
+C:\Users\Hiiiiiiiiii\OneDrive\Máy tính\0306231316\BTLT Buổi 2\Van Toc\van toc.cpp(15,10): warning C4552: '>=': result of expression not used
+  Van Toc.vcxproj -> C:\Users\Hiiiiiiiiii\OneDrive\Máy tính\0306231316\BTLT Buổi 2\x64\Debug\Van Toc.exe

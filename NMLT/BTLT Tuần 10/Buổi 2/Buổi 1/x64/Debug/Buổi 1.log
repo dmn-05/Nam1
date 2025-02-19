@@ -1,0 +1,5 @@
+﻿  buoi1.cpp
+E:\0306231316\NMLT\BTLT Tuần 10\Buổi 2\Buổi 1\buoi1.cpp(111,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+E:\0306231316\NMLT\BTLT Tuần 10\Buổi 2\Buổi 1\buoi1.cpp(112,15): warning C4101: 'k': unreferenced local variable
+E:\0306231316\NMLT\BTLT Tuần 10\Buổi 2\Buổi 1\buoi1.cpp(112,6): warning C4101: 'c': unreferenced local variable
+  Buổi 1.vcxproj -> E:\0306231316\NMLT\BTLT Tuần 10\Buổi 2\x64\Debug\Buổi 1.exe
